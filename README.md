@@ -48,4 +48,4 @@ The screenshot below shows the directory filtered by typing in the letter "sa"
   [Employee Directory Repository](https://github.com/brob92993/EmployeeDirectory.git)
 
   
-  [Deployed application]()
+  [Deployed application](https://brob92993.github.io/EmployeeDirectory/)
