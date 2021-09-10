@@ -43,13 +43,13 @@ render = () => {
 return (
 <div className="background">
 <div className="jumbotron jumbotron-fluid">
-    <h2 className="display-4">Employee Directory</h2>
-    <p> Search for an employee by entering their name or email below.</p>
+    <h2 className="display-4 text-white">Employee Directory</h2>
+    <p class= "text-white"> Search for an employee by entering their name or email below.</p>
     <Search name="search" startSort={this.startSort} label="Search" />
 </div>
 
 <div className="container-fluid">
-    <table className="table table-dark table-striped table-hover table-bordered table-condensed">
+    <table className="table table-light table-striped table-hover table-bordered table-condensed">
     <thead className="thead">
         <tr>
             <th>Image</th>
