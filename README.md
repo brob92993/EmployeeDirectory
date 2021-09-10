@@ -1,7 +1,7 @@
 # Employee Directory
 
 ## Description
-A React application that allows the user to view and sort through their entire directory of employees.
+A React application that allows the user to view and sort through their entire directory of employees by employee name.
 
 ![screenshot](public/img/EDscreenshot.PNG)
 
@@ -25,15 +25,11 @@ A React application that allows the user to view and sort through their entire d
 
 To start the app in the CLI : "npm start"  
 
-![NpmStart]()
+The screenshot below shows the directory filtered by typing in the letter "sa"
+
+![Screenshot](public/img/EDscreenshot2.PNG)
 
 
-The video below is a demo on the online and offline usage for the application
-
-![Walkthrough]()
-
-
-  
 
   ## License
     
