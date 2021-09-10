@@ -3,6 +3,8 @@
 ## Description
 A React application that allows the user to view and sort through their entire directory of employees.
 
+![screenshot](public/img/EDscreenshot.PNG)
+
   ## Table of Contents
   
   * [Installation](#installation)
@@ -19,10 +21,7 @@ A React application that allows the user to view and sort through their entire d
   
   To install necessary dependencies, run the following command: "npm i".
 
-  ![Npm]()
-
- 
-  ## Usage
+   ## Usage
 
 To start the app in the CLI : "npm start"  
 
